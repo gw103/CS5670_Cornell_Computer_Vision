@@ -1,0 +1,65 @@
+body {
+    color: black;
+    font-family: "Lato";
+    background-color: white;
+    text-align: justify;
+}
+
+main {
+    width: 800px;
+    margin: 0 auto 0 auto;
+}
+
+header {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+p {
+    margin-top: 0px;
+    margin-left: 1em;
+}
+
+a {
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+li {
+    margin: 0;
+}
+
+code {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+img, table {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.importantInfo {
+    color: red;
+}
+
+strong {
+    font-weight: 900;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 5px;
+}
+
+td strong {
+    font-weight: bold;
+}
